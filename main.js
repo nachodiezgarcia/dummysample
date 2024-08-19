@@ -1,2 +1,4 @@
-const message = `server update`;
-document.write(message);
+const messageToDisplay = `server update`;
+document.write(messageToDisplay);
+
+console.log("Hola desde main.js");
